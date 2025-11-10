@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "generated_at": "2022-10-17T00:00:00Z",
+    "records": 3
+  },
+  "data": [
+    {
+      "origin": "Jakarta",
+      "target": "London",
+      "depart": "2022-10-17",
+      "airline": "SkyJet Airways",
+      "price": 550.0,
+      "duration": "13h 20m",
+      "stops": 1,
+      "flight_number": "SJ1243",
+      "fetched_at": "2022-10-17T00:00:00Z",
+      "currency": "USD"
+    },
+    {
+      "origin": "London",
+      "target": "Jakarta",
+      "depart": "2022-10-20",
+      "airline": "AeroCloud",
+      "price": 520.0,
+      "duration": "14h 05m",
+      "stops": 2,
+      "flight_number": "AC3321",
+      "fetched_at": "2022-10-17T00:00:00Z",
+      "currency": "USD"
+    },
+    {
+      "origin": "London",
+      "target": "Paris",
+      "depart": "2022-10-03",
+      "airline": "Blue Horizon",
+      "price": 120.0,
+      "duration": "1h 15m",
+      "stops": 0,
+      "flight_number": "BH987",
+      "fetched_at": "2022-10-17T00:00:00Z",
+      "currency": "EUR"
+    }
+  ]
+}
