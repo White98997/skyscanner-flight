@@ -1,0 +1,7 @@
+{
+  "offline_mode": true,
+  "max_per_route": 5,
+  "max_results": 100,
+  "simulated_network_delay_ms": 120,
+  "output_path": "data/results.json"
+}
