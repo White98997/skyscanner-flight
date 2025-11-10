@@ -1,0 +1,27 @@
+[
+  {
+    "origin": "Jakarta",
+    "target": "London",
+    "depart": "2022-10-17"
+  },
+  {
+    "origin": "Jakarta",
+    "target": "London",
+    "depart": "2022-10-17",
+    "origin_return": "London",
+    "target_return": "Jakarta",
+    "depart_return": "2022-10-20"
+  },
+  {
+    "origin": "Jakarta",
+    "target": "London",
+    "depart": "2022-10-01",
+    "stops": [
+      { "origin": "London", "target": "Paris", "depart": "2022-10-03" },
+      { "origin": "Paris", "target": "Bangkok", "depart": "2022-10-05" },
+      { "origin": "Bangkok", "target": "Sydney", "depart": "2022-10-07" },
+      { "origin": "Sydney", "target": "New York", "depart": "2022-10-09" },
+      { "origin": "New York", "target": "Jakarta", "depart": "2022-10-11" }
+    ]
+  }
+]
